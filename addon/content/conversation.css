@@ -322,7 +322,7 @@ html[dir="rtl"] .attachmentsDropDown .tooltip {
 
 .dropDown li:nth-child(2n),
 .attachmentsDropDown li:nth-child(2n)  {
-  background-color: -moz-OddTreeRow;
+  /*background-color: -moz-OddTreeRow;*/
 }
 
 .dropdown-sep {
